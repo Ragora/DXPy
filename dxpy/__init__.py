@@ -7,3 +7,4 @@
 """
 
 from .pseudonumber import PseudoNumber
+from .telnethost import TelnetHost
