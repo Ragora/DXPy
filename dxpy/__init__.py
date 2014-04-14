@@ -6,5 +6,6 @@
 	Copyright (c) 2014 Robert MacGregor
 """
 
+import htmlgen
 from .pseudonumber import PseudoNumber
 from .telnethost import TelnetHost
