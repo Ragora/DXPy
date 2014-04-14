@@ -6,6 +6,8 @@
 	Copyright (c) 2014 Robert MacGregor
 """
 
+import math
+
 class PseudoNumber:
 	""" A pseudo number is just my wording for a number type that is represented
 	with an arbitrary number of characters. """
