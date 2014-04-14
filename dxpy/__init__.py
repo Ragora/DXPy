@@ -7,5 +7,6 @@
 """
 
 import htmlgen
+from .settings import Settings
 from .pseudonumber import PseudoNumber
 from .telnethost import TelnetHost
