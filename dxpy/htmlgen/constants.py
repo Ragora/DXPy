@@ -1,7 +1,8 @@
 """
 	Textual constants for use with the HTMLGen API.
 
-	Copyright (c) 2013 Robert MacGregor
+	This software is licensed under the Draconic Free License version 1.
+	Please refer to LICENSE.txt for more information.
 """
 
 ALIGN_NONE = 0

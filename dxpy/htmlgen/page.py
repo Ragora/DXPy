@@ -2,7 +2,8 @@
 	Page object that contains all known HTML elements and generates
 	the HTML data.
 
-	Copyright (c) 2013 Robert MacGregor
+	This software is licensed under the Draconic Free License version 1.
+	Please refer to LICENSE.txt for more information.
 """
 
 from .html import HTML

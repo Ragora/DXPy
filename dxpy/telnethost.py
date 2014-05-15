@@ -1,7 +1,8 @@
 """
 	telnet_host.py
-	Copyright (c) 2012 The Liukcairo
-	A small Telnet library I built.
+	
+	This software is licensed under the Draconic Free License version 1.
+	Please refer to LICENSE.txt for more information.
 """
 
 import socket, threading, time, string, sys

@@ -1,5 +1,8 @@
 """
 	Event chaining system.
+	
+	This software is licensed under the Draconic Free License version 1.
+	Please refer to LICENSE.txt for more information.
 """
 
 import random
